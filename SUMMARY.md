@@ -6,11 +6,9 @@
 
 * [Login](guides/login.md)
 
-## 🙋‍♂️Support
+## 🙋‍♂️Support <a id="support-1"></a>
 
----
-
-* [Frequently Asked Questions](frequently-asked-questions.md)
+* [Frequently Asked Questions](support-1/frequently-asked-questions.md)
 
 ## 📰News <a id="latest-news"></a>
 
@@ -23,8 +21,4 @@
 * [Open Account](https://links.ewealthglobal.com/e_card_signup/corporate_fivepageform.php)
 * [Terms & Conditions](https://www.ewealthglobal.com/index.php/terms-and-conditions/)
 * [Login](https://efx.paydirect.io/login)
-
-## Support <a id="support-1"></a>
-
-* [Untitled](support-1/untitled.md)
 
