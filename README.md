@@ -6,10 +6,6 @@ description: >-
 
 # Home Page
 
-{% hint style="info" %}
-Scroll down to find more useful information
-{% endhint %}
-
 ## What this site provides 
 
 * Multiple Guides to help you create and manage your account
@@ -17,7 +13,9 @@ Scroll down to find more useful information
 * A list of useful links to help you navigate through the website and get to where you need to
 * The latest news related to the company 
 
-## Click any of the boxes below to go to the area you need 
+{% hint style="info" %}
+Click boxes below to find what you need 
+{% endhint %}
 
 {% page-ref page="frequently-asked-questions.md" %}
 
