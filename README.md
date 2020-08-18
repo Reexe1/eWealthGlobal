@@ -17,7 +17,5 @@ description: >-
 Click boxes below to find what you need 
 {% endhint %}
 
-{% page-ref page="frequently-asked-questions.md" %}
-
 
 
