@@ -14,11 +14,11 @@ Follow this link below to be taken to the login page :
 
 ## Second Step : 
 
-Enter your Login ID into the bar and then click the 'Next' button below
+Enter your Login ID into the bar and then click the **'Next'** button below
 
 ![](../.gitbook/assets/image.png)
 
 ## Third Step : 
 
-Enter your password and press the 'Next' button again
+Enter your password and press the **'Next**' button again
 
