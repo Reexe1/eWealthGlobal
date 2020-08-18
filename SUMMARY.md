@@ -2,21 +2,21 @@
 
 * [Home Page](README.md)
 
-## Guides
+## 📑Guides
 
 * [Login](guides/login.md)
 
-## Support
+## 🙋‍♂️Support
 
 ---
 
 * [Frequently Asked Questions](frequently-asked-questions.md)
 
-## News <a id="latest-news"></a>
+## 📰News <a id="latest-news"></a>
 
 * [Latest News](latest-news/news.md)
 
-## Useful Links
+## 💻Useful Links
 
 * [Main Website](https://www.ewealthglobal.com/)
 * [Contact Us](https://www.ewealthglobal.com/contact-us/)
