@@ -4,7 +4,7 @@ description: >-
   links that you need to help you with your experiance.
 ---
 
-# 🏠Home Page
+# Home Page
 
 ## What this site provides 
 

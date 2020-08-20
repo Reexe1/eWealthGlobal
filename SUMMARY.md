@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏠Home Page](README.md)
+* [Home Page](README.md)
 
 ## 📑Guides
 
